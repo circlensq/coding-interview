@@ -1,2 +1,2 @@
 # coding-interview
-Helping job-seeker to pass their coding test interview,
+This repository provides the coding questions that might appear on your interview and the answer of each question.
